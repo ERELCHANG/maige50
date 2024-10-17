@@ -1,4 +1,4 @@
-url.txt 放需要发布的文章，需要带http协议
+url.txt 放需要发布的网站，需要带http协议
 
 token.json 里面的值必须和网站里面的token一致，防止其他人发布文章到你的网站，示例内容：[{"token":"7FDE2FC008"}]
 
