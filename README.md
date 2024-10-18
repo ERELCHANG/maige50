@@ -1,3 +1,15 @@
+程序环境为：php8.0 ---------------------必须
+
+程序必须安装：PHP8.0 sg15 扩展包----------必须 如下图安装示例 任何重启php
+
+![image](https://github.com/user-attachments/assets/a3b29a26-6ad6-47be-bb6d-95020088d0e5)
+
+![image](https://github.com/user-attachments/assets/9c4d8d11-0114-49ba-93ca-780250fcb500)
+
+
+不会影响以前的站点！！！ 不会影响以前的站点！！！ 不会影响以前的站点！！！
+
+
 url.txt 放需要发布的网站，需要带http协议
 
 token.json 里面的值必须和网站里面的token一致，防止其他人发布文章到你的网站，示例内容：[{"token":"7FDE2FC008"}]
