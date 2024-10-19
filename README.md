@@ -18,6 +18,14 @@ config.txt 每个网站需要发布多少文章，写1表示发1篇，可以写�
 
 article_publisher.php  发布文章则执行这个文件，比如在宝塔上建一个域名或者IP，如果你建的IP是12.12.12.13，那么访问12.12.12.13/article_publisher.php  就可以发布文章了。
 
+宝塔用一个IP建站
+
+![image](https://github.com/user-attachments/assets/d2059ed9-9134-42bf-8ba2-98a4c608b3a6)
+
+下载发布文章的包放进去解压。然后访问你建站的IP/article_publisher.php
+
+![image](https://github.com/user-attachments/assets/0051d2a1-1296-4385-848e-11f4629c348a)
+
 ![image](https://github.com/user-attachments/assets/39dd2162-56f0-4b9c-93c5-c89afc33df71)
 ![image](https://github.com/user-attachments/assets/659acdc6-1b33-4702-9c04-1cfda1a99efa)
 
